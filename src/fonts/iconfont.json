@@ -1,0 +1,16 @@
+{
+  "id": "3298692",
+  "name": "图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1418223",
+      "name": "上下",
+      "font_class": "shangxia",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
